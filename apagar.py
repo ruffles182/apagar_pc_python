@@ -64,18 +64,4 @@ while continuar:
 
     if not continuar:
         break
-limpiar_pantalla
-
-
-
-
-# limpiar_pantalla()
-# print(Temporizador de PC!)
-# separador()
-# print("En cuantos minutos se apagará el pc? ")
-# tiempo = input()
-
-# separador()
-# # os.system("shutdown -s -t " + tiempo)
-# print("El pc se apagará en " + tiempo + "minutos!")
-# separador()
+limpiar_pantalla()
